@@ -14,7 +14,7 @@ The total time of the mission is around 1 hour and 20 minutes.
 
 You need to install X-Plane first, and the [MissionX plugin](https://forums.x-plane.org/index.php?/files/file/15389-mission-x-64bit/).
 
-Then download the zipfile and extract its content in you X-Plane directory. The content of the mission will nicely fit in your X-Plane installation :
+Then download [The.Grizzly.Maze_Extract.To.Xplane.Folder.zip](The.Grizzly.Maze_Extract.To.Xplane.Folder.zip) and extract its content in you X-Plane directory. The content of the mission will nicely fit in your X-Plane installation :
 
 * The mission itself (XML file) in Resources/plugins/missionx/data/
 * The maps useful to achive the mission in Custom Scenery/missionx/the_grizzly_maze/
