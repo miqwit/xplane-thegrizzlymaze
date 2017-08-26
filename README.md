@@ -22,4 +22,5 @@ The folders and files will be created without altering other plugins or missions
 ## Additional Informations
 
 [Grizzly Man](https://en.wikipedia.org/wiki/Grizzly_Man), a film by Werner Herzog
+
 [Timothy Treadwell](https://en.wikipedia.org/wiki/Timothy_Treadwell), the man who spent 13 summers living with grizzlies
