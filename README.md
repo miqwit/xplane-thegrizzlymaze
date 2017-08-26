@@ -4,7 +4,11 @@ The Grizzly Maze is a mission for X-Plane users, using the plugin missionx.
 
 ## The mission
 
-In this mission, you will help the director Werner Herzog to shoot his two last clips for his documentary **The Grizzly Maze**. You will fly the seaplane Cessna 172 with amphibious floats.
+In this mission, you will help the director Werner Herzog to shoot his two last clips for his documentary **The Grizzly Man**. You will fly the seaplane Cessna 172 with amphibious floats, and approaching the last campsite of american Timothy Treadwell who spent summers in what he called The Grizzly Maze, an area where he could observe and live with grizzly bears.
+
+You will leave Kodiak Inner Harbor (9Z4) at the end of the afternoon and help the director for his shooting. Follow carefully his instructions.
+
+The total time of the mission is around 1 hour and 20 minutes.
 
 ## Installation
 
@@ -18,6 +22,11 @@ Then download the zipfile and extract its content in you X-Plane directory. The 
 The folders and files will be created without altering other plugins or missions.
 
 ## Screenshots
+
+![Seaplane over Alaska](screenshots/seaplane.png)
+![Kaflia Bay](screenshots/kaflia_bay.png)
+![The Grizzly Maze](screenshots/the_grizzly_maze.png)
+![Landing in Kodiak Inner Harbor](screenshots/kodiak.png)
 
 ## Additional Informations
 
